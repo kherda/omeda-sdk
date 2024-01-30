@@ -1,12 +1,12 @@
 {
-    "name": "as3/omeda-sdk",
+    "name": "kherda/omeda-sdk",
     "license": "MIT",
     "type": "library",
     "description": "Provides Omeda API client functionality and SDK tools.",
     "authors": [
         {
-            "name": "Jacob Bare",
-            "email": "jacob.bare@gmail.com"
+            "name": "Kevin Herda",
+            "email": "kherda@sgcmail.com"
         }
     ],
     "autoload": {
